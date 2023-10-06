@@ -21,7 +21,10 @@ IsimlerList = {"A1ynyynynnny":"Berkay",  #Berkay
                   "A7nnynyyynyn":"Batus",  #Batuş
                   "A8yyynnnynyy":"Ege1",  #Ege1
                   "A9yyynnynynn":"Heval",  #Heval
-                  "AAyyyynynnyy":"Ozgur"}  #Özgür
+                  "AAyyyynynnyy":"Ozgur",  #Özgür
+                  "ABynnynyynyn":"Furkan",  #Furkan
+                  "ACynyynnyyny":"Kaan",   #Kaan
+                  "ADynnnnnynnn":"Ertan"}  #Ertan
 
 SetList = set() # Sorulan soruda zıt cevapta olanlar buraya kaydediliyor en son diğer liste ile karşılaştırılıp kalan kişinin ismi yazdırılacak
 while True:
